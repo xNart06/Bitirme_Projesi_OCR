@@ -31,6 +31,3 @@ Projenin amacı insanları daha bilinçli bir tüketici yapma yolunda katkıda b
 <p>Yaptığımız demoyu daha iyi hale getirmek için ChatGPT kullanarak oluşturduğumuz yapay demo dataseti projemize bağlıyoruz. 
 <img src="Readme Images/Datasetli Tkinter.png" alt="dataset">
   
-<h2>👨‍💻 Developer</h2>
-<p><strong>Furkan Hamza BOLAT</strong></p>
-<p><strong>Email:</strong> <a href="mailto:furkanhamzabolat@gmail.com">furkanhamzabolat@gmail.com</a></p>
